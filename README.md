@@ -1,5 +1,10 @@
 # Oxford calendar terms for Emacs
 
+**UPDATE 2026-02-11 22:54 +0200:** This project is discontinued and
+superseded by my `institution-calendar`: <https://github.com/protesilaos/institution-calendar>.
+
+* * *
+
 SCREENSHOT here: <https://protesilaos.com/codelog/2026-01-09-emacs-oxford-calendar-package/>.
 
 * * *
